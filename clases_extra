@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PARS</title>
+    </head>
+    <body>
+        <h1 align= "center"">Plataforma de Asignacion de Reportes Semanales</h1>
+        
+        <table border=.1>
+            <tr>
+                <td bgcolor= "black">Numero</td>
+                <td>Alumno</td>
+                <td width= "50%" eight= "500px">Asistencia...</td>
+                <td>Comportamiento</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Ricardo Juarez Lemus</td>
+                <td>Si<input type= "radio"/>No<input type= "radio"/></td>
+                <td><input id= "comportamiento" name type= "text" /></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td></td>
+                <td></td>
+                <td><input id= "comportamiento" name type= "text" /></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td></td>
+                <td></td>
+                <td><input id= "comportamiento" name type= "text" /></td>
+            </tr>
+        </table>
+    </body>
+</html>
